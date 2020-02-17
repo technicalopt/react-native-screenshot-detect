@@ -46,7 +46,7 @@ public class ScreenShotDetectModule extends ReactContextBaseJavaModule implement
      * 截屏依据中的路径判断关键字
      */
     private static final String[] KEYWORDS = {
-            "screenshot", "screen_shot", "screen-shot", "screen shot",
+            "screenshot", "Screenshot", "screen_shot", "screen-shot", "screen shot",
             "screencapture", "screen_capture", "screen-capture", "screen capture",
             "screencap", "screen_cap", "screen-cap", "screen cap"
     };
